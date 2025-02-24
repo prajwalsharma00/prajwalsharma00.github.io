@@ -1,4 +1,4 @@
-## I SOLVED MY FIRST LEETCODE HARD PROBLEM ON MY OWN
+### I SOLVED MY FIRST LEETCODE HARD PROBLEM ON MY OWN
 Today i tried one of the hard problem in leetcode. I was struglling but i solved it. Yes i solved it. And i am happy because i foudn the logic on my own 
 also i used the concepts i learned earler to solve that problem. The queestion was to sort the K linked list. i have already done with fixed number of 2 arrays
 but how to take condition for k array was hard. I came to the idea to use the binary tree adn use inorder travnersal to get te sordted array. I loop thoeught evertylinked list given to me
